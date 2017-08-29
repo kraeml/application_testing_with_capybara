@@ -6,3 +6,4 @@ gem "selenium-webdriver"
 gem 'cucumber'
 gem 'rspec'
 gem 'sinatra'
+gem 'poltergeist'
